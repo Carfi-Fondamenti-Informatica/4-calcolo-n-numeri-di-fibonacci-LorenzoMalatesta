@@ -12,7 +12,7 @@ int main() {
             num_0=num_2;
         }
     } else {
-        cout << "Errore" << endl;
+        cout << "errore" << endl;
     }
     return 0;
 }
